@@ -1,0 +1,83 @@
+/* intialisation */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+  background-color: lightblue
+  }
+  header {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+
+  }
+
+  
+  .loginnav {
+    width: 100px;
+    height: 50px;
+    justify-content: right;
+    
+  margin-top: 0px;
+  margin-right: 0px;
+  }
+  header  ul {
+  display: flex;
+  list-style: none;
+  letter-spacing: 1mm;
+  }
+  li{
+   margin-left: 2mm;
+  }
+  h2 {
+    text-align: center;
+    color: rgb(54, 4, 4);
+  }
+ .Interests   {
+   display: flex;
+   margin-top: 2%;
+   margin-bottom: 5%;
+   margin-left: 2%;
+   justify-content: space-between;
+   
+    
+  }
+  }
+  .loginnav button {
+    background: rgb(3, 46, 82);
+    border-style: none;
+    padding: 10px;
+    color: rgb(91, 34, 182);
+  }
+  
+  .about {
+    display: flex;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    align-items: center;
+
+    ;
+  }
+  .contact {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 2%;
+  }
+  h1 {
+  font-family: Helvetica neue, roboto;
+  color: white;
+}
+footer {
+  background-color: rgb(219, 40, 174);
+  width: 110%;
+  margin-top: 10%;
+}
+footer li {
+  font-family: Helvetica neue, roboto;
+  color: white;
+  
+}
+
+  
+  
